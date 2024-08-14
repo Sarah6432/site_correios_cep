@@ -106,4 +106,7 @@ li{
    i{
    width: 55px;
    }
-   
+   .endereco{
+    font-family: sans serif;
+    font-size: large;
+   }
